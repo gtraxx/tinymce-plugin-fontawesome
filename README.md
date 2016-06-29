@@ -1,5 +1,9 @@
 # tinymce-plugin-fontawesome
 A plugin that lets you insert FontAwesome icons via TinyMCE.
+![font-awesome-feature](https://cloud.githubusercontent.com/assets/356674/16452431/c8f2e12a-3e08-11e6-9327-dd1647f4ae3f.jpg)
+
+### Preview
+![fireshot screen capture 045 - magix cms i admin - www_magixcms_dev_admin_home_php_action edit edit 1](https://cloud.githubusercontent.com/assets/356674/16452418/aade269a-3e08-11e6-9831-9cb56ee12b25.png)
 
 
 ### Instructions
